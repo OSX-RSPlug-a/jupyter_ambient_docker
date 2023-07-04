@@ -2,7 +2,7 @@
 
 Running the ambient:
 
-            docker run -it --rm -p 10000:8888 -v "${PWD}":/home/dude/work jupyter/datascience-notebook:lates
+            docker run -it --rm -p 10000:8888 -v "${PWD}":/home/dude/work jupyter/datascience-notebook:latest
 
 The URL of the local lab:
 
